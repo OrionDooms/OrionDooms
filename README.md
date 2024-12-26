@@ -6,6 +6,7 @@ I am a passionate Software Engineering student and a recent graduate of the ALX 
 ## Objective
 My journey in tech, where I developed problem-solving skills and a love for creating impactful software. I am driven to learn, grow, and gain hands-on experience in the industry as I work toward becoming a skilled software engineer.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrionDooms&show_icons=true&theme=radical)
 <!-------------------------------------
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
